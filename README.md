@@ -262,6 +262,7 @@ Hosted services and production agents that expose an A2A Agent Card or a native 
 | [APEX Faucet (Flux)](https://apexfaucet.xyz) | [Agent Card](https://apexfaucet.xyz/.well-known/agent-card.json) · 29 skills · A2A 0.3 JSON-RPC endpoint `apexfaucet.xyz/api/a2a` · token exit checks, Arc launch feeds and yield data |
 | [Oh My Share](https://openanthropic.com) | [Agent Card](https://openanthropic.com/.well-known/agent-card.json) · 6 MCP tools · A2A 1.0 JSON-RPC endpoint `openanthropic.com/a2a` |
 | [GetBody](https://getbody.md) | [Agent Card](https://getbody.md/.well-known/agent-card.json) |
+| [Ruzora Hiring Agent](https://www.ruzora.com/developers/mcp) | [Agent Card](https://www.ruzora.com/.well-known/agent-card.json) · 8 skills · A2A 1.0 JSON-RPC endpoint `mcp.ruzora.com/a2a` · hiring senior software engineers in Latin America: search blind profiles of vetted engineers, verify a Ruzora Vetted badge, send a free coding challenge, request a vetted shortlist (work-email verification for buyer actions) · MCP server at `mcp.ruzora.com/mcp` |
 [⬆️ Back to Contents](#contents)
 
 
